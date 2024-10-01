@@ -1,0 +1,4 @@
+﻿  interpolate.cpp
+d:\study\master\24spring\csci520 animation\csci520-assignment2-startercode\csci520-assignment2-startercode\mocapplayer-starter\interpolate.cpp(54): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\direct.h(94): note: 参见“getcwd”的声明
+  interpolate.vcxproj -> D:\Study\Master\24spring\CSCI520 Animation\csci520-assignment2-startercode\csci520-assignment2-startercode\IDE-starter\VS2017\Debug\interpolate.exe

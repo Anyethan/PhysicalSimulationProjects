@@ -1,0 +1,116 @@
+﻿  input.cpp
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(150): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(212): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(215): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(218): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(222): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(225): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(227): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(230): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(237): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(249): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(260): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 参见“fscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\input.cpp(280): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  jello.cpp
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(135): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(136): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(137): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(138): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(139): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(140): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(141): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(142): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(147): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\jello.cpp(198): warning C4101: “i”: 未引用的局部变量
+  physics.cpp
+  pic.cpp
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\pic.cpp(55): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\pic.cpp(52): warning C4101: “byte”: 未引用的局部变量
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\pic.cpp(53): warning C4101: “i”: 未引用的局部变量
+  ppm.cpp
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(47): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(57): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(58): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(80): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(91): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(92): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(93): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\ppm.cpp(130): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+  showCube.cpp
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(91): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(103): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(104): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(105): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(106): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(107): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(108): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(115): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(116): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(117): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(118): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(119): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(120): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(121): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(122): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(123): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(124): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(125): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(126): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(128): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(129): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(130): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(131): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(132): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(133): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(134): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(135): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(142): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(143): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(144): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(145): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(146): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(147): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(218): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(217): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(219): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(221): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(220): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(222): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(237): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(244): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(245): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(249): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(250): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(256): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(257): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(261): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(262): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(268): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(269): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(273): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(274): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(280): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(281): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(285): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+d:\study\master\24spring\csci520 animation\starter-csci520-assign1\starter-csci520-assign1\showcube.cpp(286): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据

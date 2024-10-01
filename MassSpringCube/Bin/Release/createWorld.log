@@ -1,0 +1,6 @@
+﻿D:\Installation\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(D:\Study\Master\24spring\CSCI520 Animation\starter-csci520-assign1\starter-csci520-assign1\\Bin\Release\)包含从另一个项目(jello.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  createWorld.cpp
+  正在生成代码
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  createWorld.vcxproj -> D:\Study\Master\24spring\CSCI520 Animation\starter-csci520-assign1\starter-csci520-assign1\\Bin\Release\createWorld.exe
